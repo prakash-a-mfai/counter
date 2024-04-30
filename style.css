@@ -1,0 +1,22 @@
+ .box{
+    /* height:250px;
+    width:500px;
+    background-color: black; */
+    margin: auto; 
+} 
+.container{
+text-align: center;
+}
+.btns{
+    padding:15px 25px;
+    font-size: 30px;
+    border-radius: 20px;
+    margin-left:15px;
+}
+.btns:hover{
+    background-color: grey;
+    color:white;
+}
+#ct{
+    font-size: 30px;
+}
